@@ -26,7 +26,7 @@ You need to know what tags are required for learning HTML.
 ## HTML Layout
 - The new elements of HTML5 indicate the intent of the various sections of the web page and help to establish its layout. 
 
-- The new elements (compared to using several <div> elements) have simpler code. 
+- The new elements (compared to using several div elements) have simpler code. 
 
 -   Older browsers that do not understand the elements of HTML5 need to be told which elements are elements of the block level. 
 
