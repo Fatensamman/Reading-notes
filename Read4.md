@@ -1,5 +1,5 @@
 
-## web Pages with HTML
+## Web Pages with HTML
 
 ## Process and Design
 
