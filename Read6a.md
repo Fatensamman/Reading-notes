@@ -18,3 +18,5 @@ before creating a calculation using that value.
 
 - JavaScript distinguishes between numbers (0-9),
 strings (text), and Boolean values (true or false). 
+
+![javascribt](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)

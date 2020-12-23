@@ -1,3 +1,4 @@
+ 
  ## Choosing a text editor 
 
 
@@ -31,7 +32,7 @@
 
 - The Common advantage of command line is : opening several command lines with different tasin each at the same time
 
-###Ex:
+### Ex:
 
 - Faten@bash ls -l / home / Faten
 
