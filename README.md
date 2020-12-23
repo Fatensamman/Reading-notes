@@ -7,11 +7,14 @@ my name is **Faten Samman** I'm 27 years old I have a bachelor degree in archite
 ## Table of Content:
 
 
- | Read NO. |           Read Name           |      Read Repo        |
- |----------|-------------------------------|-----------------------|
- |  Read 1  |       Learning Markdown       |  [Read 1](Read1.md)   |
- |  Read 4  | Structure web pages with HTML |  [Read 04](Read4.md)  |
- |  Read 6  |          Java script          | [Read 06a](Read6a.md) |
+ |    Read NO.    |           Read Name           |       Read Repo         |
+ |----------------|-------------------------------|-------------------------|
+ | Grouth Mindset |         Grouth Mindset        | [Grouth mindset](gm.md) |
+ |     Read 1     |       Learning Markdown       |   [Read 01](Read1.md)   |
+ |     Read 2     |     Choosing a text editor    |   [Read 02](Read2.md)   |
+ |     Read 3     |          Revisions            |   [Read 03](Read3.md)   |
+ |     Read 4     | Structure web pages with HTML |   [Read 04](Read4.md)   |
+ |     Read 6     |          Java script          |   [Read 6a](Read6a.md)  |
 
 
 
