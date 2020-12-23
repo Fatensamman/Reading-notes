@@ -11,7 +11,7 @@ my name is **Faten Samman** I'm 27 years old I have a bachelor degree in archite
  |----------|-------------------------------|-----------------------|
  |  Read 1  |       Learning Markdown       |  [Read 1](Read1.md)   |
  |  Read 4  | Structure web pages with HTML |  [Read 04](Read4.md)  |
- |  Read 6  |         Java script           | [Read 06a](Read6a.md) |
+ |  Read 6  |          Java script          | [Read 06a](Read6a.md) |
 
 
 
