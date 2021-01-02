@@ -23,20 +23,20 @@ my name is **Faten Samman** I'm 27 years old I have a bachelor degree in archite
 ### **Code 201** Reading Notes 
 
 
- |    Read NO.    |                 Read Name                 |            Read Repo          |
- |----------------|-------------------------------------------|-------------------------------|
- |     Read 1     |      Introductory HTML and JavaScript     |  [Read 01](Code201/Read1.md)  |
- |     Read 2     | Basic HTML, CSS & JavaScript Instructions |  [Read 02](Code201/Read2.md)  |
- |     Read 3     |   HTML Lists, CSS Boxes, JS Control Flow  |  [Read 03](Code201/Read3.md)  |
- |     Read 4     |   HTML Links, CSS Layout, JS Functions    |  [Read 04](Code201/Read4.md)  |
- |     Read 5     |       HTML Images; CSS Color & Text       |  [Read 05](Code201/Read5.md)  |
- |     Read 6     |        JS Object Literals; The DOM        |  [Read 6a](Code201/Read6.md)  |
- |     Read 7     |   HTML Tables; JS Constructor Functions   |  [Read 07](Code201/Read7.md)  |
- |     Read 8     |               More CSS Layout             |  [Read 08](Code201/Read8.md)  |
- |     Read 9     |              Forms and Events             |  [Read 09](Code201/Read9.md)  |
- |     Read 10    |                JS Debugging               |  [Read 10](Code201/Read10.md) |
- |     Read 11    |              Assorted Topics              |  [Read 11](Code201/Read11.md) |
- |     Read 12    |Docs for the HTML(canvas)Element & Chart.js|  [Read 12](Code201/Read12.md) |
- |     Read 13    |               Local Storage               |  [Read 13](Code201/Read13.md) |
- |    Read 14a    |CSS Transforms, Transitions, and Animations| [Read 14a](Code201/Read14a.md)|
- |    Read 14b    |      What Google Learned About Teams      | [Read 14b](Code201/Read14b.md)|
+ |    Read NO.    |                 Read Name                 |            Read Repo           |
+ |----------------|-------------------------------------------|--------------------------------|
+ |     Read 1     |      Introductory HTML and JavaScript     |[Class 01](Code201/class-01.md) |
+ |     Read 2     | Basic HTML, CSS & JavaScript Instructions |  [Class 02](Code201/Read2.md)  |
+ |     Read 3     |   HTML Lists, CSS Boxes, JS Control Flow  |  [Class 03](Code201/Read3.md)  |
+ |     Read 4     |   HTML Links, CSS Layout, JS Functions    |  [Class 04](Code201/Read4.md)  |
+ |     Read 5     |       HTML Images; CSS Color & Text       |  [Class 05](Code201/Read5.md)  |
+ |     Read 6     |        JS Object Literals; The DOM        |  [Class 06](Code201/Read6.md)  |
+ |     Read 7     |   HTML Tables; JS Constructor Functions   |  [Class 07](Code201/Read7.md)  |
+ |     Read 8     |               More CSS Layout             |  [Class 08](Code201/Read8.md)  |
+ |     Read 9     |              Forms and Events             |  [Class 09](Code201/Read9.md)  |
+ |     Read 10    |                JS Debugging               |  [Class 10](Code201/Read10.md) |
+ |     Read 11    |              Assorted Topics              |  [Class 11](Code201/Read11.md) |
+ |     Read 12    |Docs for the HTML(canvas)Element & Chart.js|  [Class 12](Code201/Read12.md) |
+ |     Read 13    |               Local Storage               |  [Class 13](Code201/Read13.md) |
+ |    Read 14a    |CSS Transforms, Transitions, and Animations| [Class 14a](Code201/Read14a.md)|
+ |    Read 14b    |      What Google Learned About Teams      | [Class 14b](Code201/Read14b.md)|
