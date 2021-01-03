@@ -26,7 +26,7 @@ my name is **Faten Samman** I'm 27 years old I have a bachelor degree in archite
  |    Read NO.    |                 Read Name                 |            Read Repo           |
  |----------------|-------------------------------------------|--------------------------------|
  |     Read 1     |      Introductory HTML and JavaScript     |[Class 01](Code201/class-01.md) |
- |     Read 2     | Basic HTML, CSS & JavaScript Instructions |  [Class 02](Code201/Read2.md)  |
+ |     Read 2     | Basic HTML, CSS & JavaScript Instructions | [Class 02](Code201/class-02.md)|
  |     Read 3     |   HTML Lists, CSS Boxes, JS Control Flow  |  [Class 03](Code201/Read3.md)  |
  |     Read 4     |   HTML Links, CSS Layout, JS Functions    |  [Class 04](Code201/Read4.md)  |
  |     Read 5     |       HTML Images; CSS Color & Text       |  [Class 05](Code201/Read5.md)  |
