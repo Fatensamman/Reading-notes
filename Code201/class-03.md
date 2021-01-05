@@ -14,3 +14,6 @@
 
 ## Basic JavaScript Instructions
 
+ - Arrays are special types of variables that store more
+than one piece of related information.
+

@@ -32,4 +32,9 @@ Even within an HTML page they will appear
 * You can combine more than one logical operator Comparison operators set.
 * Operators set. Whether... You can execute one set of code other statements 
 * If a condition is valid, and if it is incorrect, then another condition is true.
+*  statements allow you to compare a value against potential effects (and even a default) 
+If no match option). 
+* Data forms from one type to the next may be compelled. 
+* Any meaning is either true or falsified. Three types of loops exist: with, during and 
+* Don't do... For the time being. Every repeats a series of declarations.
 
