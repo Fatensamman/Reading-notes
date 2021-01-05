@@ -1,5 +1,6 @@
-# chapter 4 
-## links 
+# HTML Links, JS Functions, and Intro to CSS Layout
+
+## Links 
 ### links are created using </a> tag. 
 #### there are several type of linking: 
 * linking to other sites. 
@@ -8,9 +9,10 @@
 * e-mail links. 
 * opennig link in a new window. 
 * linking a specific part of the same page. 
-* linking to specific part in another page. 
-# chapter 15
-## layout 
+* linking to specific part in another page.
+
+
+## Layout 
 |layout                  |syntax        |
 |:---:                   | :---:        |
 |normal flow             |position:static|
@@ -34,10 +36,11 @@ pixels (to demonstrate its relevance without scrolling).
 * Grids help create professional and flexible designs.
 * CSS Frameworks provide rules for common tasks.
 * You can include multiple CSS files in one page.
-# chapter 3
-### Functions, Methods, and Objects
-#### functions :
-##### initiating
+
+
+## Functions, Methods, and Objects
+### functions :
+#### initiating
 to create a function you should give t a name and then write the statements needed to achieve its task inside the curly braces. 
 ##### calling a function 
 execute all of the statements between its curly braces with just one line of code.
