@@ -31,7 +31,7 @@ my name is **Faten Samman** I'm 27 years old I have a bachelor degree in archite
  |     Read 4     |   HTML Links, CSS Layout, JS Functions    |[Class 04](Code201/class-04.md) |
  |     Read 5     |       HTML Images; CSS Color & Text       |[Class 05](Code201/class-05.md) |
  |     Read 6     |        JS Object Literals; The DOM        | [Class 06](Code201/class-06.md)|
- |     Read 7     |   HTML Tables; JS Constructor Functions   |  [Class 07](Code201/Read7.md)  |
+ |     Read 7     |   HTML Tables; JS Constructor Functions   |[Class 07](Code201/class-07.md) |
  |     Read 8     |               More CSS Layout             |[Class 08](Code201/class-08.md) |
  |     Read 9     |              Forms and Events             |[Class 09](Code201/class-09.md) |
  |     Read 10    |                JS Debugging               |[Class 10](Code201/class-10.md) |
