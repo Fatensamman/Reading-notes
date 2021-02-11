@@ -1,12 +1,13 @@
 
+# Reading Notes
 
 ## About:
-my name is **Faten Samman** I'm 27 years old I have a bachelor degree in architecture from University of Jordan , I like programming from the softwares which I use in my work field, so I wish learn more about it :heart:
+my name is **Faten Samman** I have a bachelor degree in architecture from University of Jordan , I like programming from the softwares which I use in my work field, so I wish learn more about it :heart:
 ###### my Github : [fatensamman](https://github.com/Fatensamman)
 
-## These are Reading Notes of Code 102 and Code 201 :
+## These are my Reading Notes:
 
-### **Code 102** Reading Notes 
+### **Code 102** - Intro to Software Development
 
  |    Read NO.    |                  Read Name                |            Read Repo          |
  |----------------|-------------------------------------------|-------------------------------|
@@ -20,7 +21,7 @@ my name is **Faten Samman** I'm 27 years old I have a bachelor degree in archite
  |     Read 7     |                 Java script               |  [Read 07](Code102/Read7.md)  |
  |     Read 8     |                 Java script               |  [Read 08](Code102/Read8.md)  |
 
-### **Code 201** Reading Notes 
+### **Code 201** - Foundations of Software Development 
 
 
  |    Read NO.    |                 Read Name                 |            Read Repo           |
@@ -40,3 +41,25 @@ my name is **Faten Samman** I'm 27 years old I have a bachelor degree in archite
  |     Read 13    |               Local Storage               |[Class 13](Code201/class-13.md) |
  |    Read 14a    |CSS Transforms, Transitions, and Animations|[Class14a](Code201/class-14a.md)|
  |    Read 14b    |      What Google Learned About Teams      |[Class14b](Code201/class-14b.md)|
+
+
+ ### **Code 301** - Intermediate Software Development
+
+ |    Read NO.    |                 Read Name                   |            Read Repo           |
+ |----------------|---------------------------------------------|--------------------------------|
+ |     Read 1     |        SMACSS and Responsive Web Design     |[Class 01](Code301/class-01.md) |
+ |     Read 2     |         jQuery, Events, and The DOM         | [Class 02](Code301/class-02.md)|
+ |     Read 3     |            Flexbox and Templating           |[Class 03](Code301/class-03.md) |
+ |     Read 4     |Responsive Web Design and Regular Expressions|[Class 04](Code301/class-04.md) |
+ |     Read 5     |              Heroku Deployment              |[Class 05](Code301/class-05.md) |
+ |     Read 6     |           Node, Express, and APIs           | [Class 06](Code301/class-06.md)|
+ |     Read 7     |               APIs continued                |[Class 07](Code301/class-07.md) |
+ |     Read 8     |                     SQL                     |[Class 08](Code301/class-08.md) |
+ |     Read 9     |                 Refactoring                 |[Class 09](Code301/class-09.md) |
+ |     Read 10    |       The Call Stack and Debugging          |[Class 10](Code301/class-10.md) |
+ |     Read 11    |                     EJS                     |[Class 11](Code301/class-11.md) |
+ |     Read 12    |                 Components                  |[Class 12](Code301/class-12.md) |
+ |     Read 13    |                Update/Delete                |[Class 13](Code301/class-13.md) |
+ |    Read 14a    |              DB Normalization               |[Class14a](Code301/class-14a.md)|
+ |    Read 14b    |             Project Ideas & APIs            |[Class14b](Code301/class-14b.md)|
+ |     Read 15    |           Diversity and Inclusion           | [Class15](Code301/class-14b.md)|
