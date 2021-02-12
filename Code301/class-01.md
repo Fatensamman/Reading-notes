@@ -7,6 +7,8 @@ Responsive Web Design (RWD) is an approach to web creation that adjusts the layo
 
 The RWD uses so-called interruption points to decide how a site's architecture appears: a design is used above an interruption point and a design below the interruption point. The disturbance points are typically based on the browser distance.
 
+
+*to understand more just click on this link*
 [responsive website](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/04/25/london_700_2.mp4)
 
 
