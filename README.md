@@ -43,7 +43,7 @@ my name is **Faten Samman** I have a bachelor degree in architecture from Univer
  |    Read 14b    |      What Google Learned About Teams      |[Class14b](Code201/class-14b.md)|
 
 
- ### **Code 301** - Intermediate Software Development
+ ###  **Code 301** - Intermediate Software Development
 
  |    Read NO.    |                 Read Name                   |            Read Repo           |
  |----------------|---------------------------------------------|--------------------------------|
