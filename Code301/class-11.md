@@ -1,7 +1,7 @@
 ## EJS
 **Embedded JavaScript templates.**
 
-1[ejs](https://miro.medium.com/max/3920/1*5xR5P6dzu4LpyMaR2QMphA.jpeg)
+![ejs](https://miro.medium.com/max/3920/1*5xR5P6dzu4LpyMaR2QMphA.jpeg)
 
 - EJS is a framework with a template. In the EJS syntax, you identify HTML pages and decide where different data will go on the list. Your app then blends data with the template and "renders" a full HTML page where the data is taken by EJS and embedded into the web page according to how the template was defined. You could have a complex data table from a database, for instance, and you want EJS to create the data table according to your show rules. It saves you from the drudgery of writing code to create HTML based on data dynamically.
 
