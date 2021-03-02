@@ -62,4 +62,4 @@ my name is **Faten Samman** I have a bachelor degree in architecture from Univer
  |     Read 13    |                Update/Delete                |[Class 13](Code301/class-13.md) |
  |    Read 14a    |              DB Normalization               |[Class14a](Code301/class-14a.md)|
  |    Read 14b    |             Project Ideas & APIs            |[Class14b](Code301/class-14b.md)|
- |     Read 15    |           Diversity and Inclusion           | [Class15](Code301/class-14b.md)|
+ |     Read 15    |           Diversity and Inclusion           | [Class15](Code301/class-15.md)|
