@@ -1,4 +1,4 @@
- ##  **Code 401** - Advanced Software Development:
+ #  **Code 401** - Advanced Software Development:
 
 This page includes the course 401 reading materials, which are included in the table below:
 
