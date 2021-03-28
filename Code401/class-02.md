@@ -30,8 +30,7 @@ is a Node. js backend web server platform distributed under the MIT License as f
 - ### Routing:
 determines how an application responds to a client request to a specific endpoint, which is represented by a URI (or path) and a specific HTTP request process (GET, POST, and so on).
 
-- ###
- WRRC:
+- ### WRRC:
 web request response cycle
 
 
