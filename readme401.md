@@ -6,7 +6,7 @@ This page includes the course 401 reading materials, which are included in the t
  |    Read NO.    |                 Read Name                   |            Read Repo           |
  |----------------|---------------------------------------------|--------------------------------|
  |     Read 1     |          Node Ecosystem, TDD, CI/CD         |[Class 01](Code401/class-01.md) |
- |     Read 2     |               | [Class 02](Code401/class-02.md)|
+ |     Read 2     |         Express      | [Class 02](Code401/class-02.md)|
  |     Read 3     |                     |[Class 03](Code401/class-03.md) |
  |     Read 4     ||[Class 04](Code401/class-04.md) |
  |     Read 5     |                           |[Class 05](Code401/class-05.md) |
