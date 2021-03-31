@@ -9,7 +9,7 @@ This page includes the course 401 reading materials, which are included in the t
  |     Read 2     |         Express      | [Class 02](Code401/class-02.md)|
  |     Read 3     |         Express REST API    |[Class 03](Code401/class-03.md) |
  |     Read 4     |Data Modeling|[Class 04](Code401/class-04.md) |
- |     Read 5     |                           |[Class 05](Code401/class-05.md) |
+ |     Read 5     |              Linked List      |[Class 05](Code401/class-05.md) |
  |     Read 6     |                | [Class 06](Code401/class-06.md)|
  |     Read 7     |                              |[Class 07](Code401/class-07.md) |
  |     Read 8     |                                     |[Class 08](Code401/class-08.md) |
