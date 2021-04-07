@@ -14,8 +14,8 @@ This page includes the course 401 reading materials, which are included in the t
  |     Read 7     |                   Bearer Authorization           |[Class 07](Code401/class-07.md) |
  |     Read 8     |                          Access Control (ACL)           |[Class 08](Code401/class-08.md) |
  |     Read 9     |               OAuth             |[Class 09](Code401/class-09.md) |
- |     Read 10    |               |[Class 10](Code401/class-10.md) |
- |     Read 11    |                                      |[Class 11](Code401/class-11.md) |
+ |     Read 10    |            Stacks and Queues    |[Class 10](Code401/class-10.md) |
+ |     Read 11    |        Event-Driven Applications  |[Class 11](Code401/class-11.md) |
  |     Read 13    |                               |[Class 13](Code401/class-13.md) |
  |    Read 14a    |                           |[Class14a](Code401/class-14a.md)|
  |    Read 14b    |                        |[Class14b](Code401/class-14b.md)|
