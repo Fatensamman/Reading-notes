@@ -18,4 +18,4 @@ This page includes the course 401 reading materials, which are included in the t
  |     Read 11    |        Event-Driven Applications  |[Class 11](Code401/class-11.md) |
  |     Read 12    |                       Socket.io        |[Class 12](Code401/class-12.md) |
  |    Read 13     |                       Message Queues    |[Class13](Code401/class-13.md)|
- |    Read 14     |                        |[Class14](Code401/class-14.md)|
+ |    Read 14     |          Tree Data Structure              |[Class14](Code401/class-14.md)|
