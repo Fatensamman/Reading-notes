@@ -22,4 +22,4 @@ The observer pattern is a software design pattern in which an object, named the 
 3- WRRC web is a cycle of requests and responses that flow between clients and servers.
 
 ### Preview:
-Amazon Elastic Compute Cloud (Amazon EC2) is a cloud computing service that offers reliable, scalable compute resources. It's intended to make web-scale cloud computing more accessible to programmers. The simple web service interface of Amazon EC2 enables you to quickly receive and customize power. It gives you full control of your computer capabilities and allows you to work on Amazon's tried-and-true computing infrastructure.
+Amazon Elastic Compute Cloud (Amazon EC2) is a cloud computing service that offers reliable, scalable compute resources. It's intended to make web-scale cloud computing more accessible to programmers. It gives you full control of your computer capabilities.
