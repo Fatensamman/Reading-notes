@@ -21,3 +21,4 @@ This page includes the course 401 reading materials, which are included in the t
  |    Read 14     |          Tree Data Structure              |[Class14](Code401/class-14.md)|
  |    Read 16     |        AWS: Cloud Servers             |[Class16](Code401/class-16.md)|
  |    Read 17     |        AWS: S3 and Lambda             |[Class17](Code401/class-17.md)|
+ |    Read 18     |        AWS: S3 and Lambda             |[Class18](Code401/class-18.md)|
