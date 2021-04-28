@@ -23,3 +23,4 @@ This page includes the course 401 reading materials, which are included in the t
  |    Read 17     |        AWS: S3 and Lambda             |[Class17](Code401/class-17.md)|
  |    Read 18     |        AWS: API, Dynamo and Lambda             |[Class18](Code401/class-18.md)|
  |    Read 19     |        AWS: AWS: Events            |[Class19](Code401/class-19.md)|
+ |    Read 26     |        Component-Based UI           |[Class26](Code401/class-26.md)|
