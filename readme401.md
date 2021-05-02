@@ -24,3 +24,7 @@ This page includes the course 401 reading materials, which are included in the t
  |    Read 18     |        AWS: API, Dynamo and Lambda             |[Class18](Code401/class-18.md)|
  |    Read 19     |        AWS: AWS: Events            |[Class19](Code401/class-19.md)|
  |    Read 26     |        Component-Based UI           |[Class26](Code401/class-26.md)|
+ |    Read 27     |        Props and State          |[Class27](Code401/class-27.md)|
+ |    Read 28     |        Component Composition         |[Class28](Code401/class-28.md)|
+ |    Read 29     |        Routing          |[Class29](Code401/class-29.md)|
+ |    Read 30     |        Hash Tables          |[Class30](Code401/class-30.md)|
