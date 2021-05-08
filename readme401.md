@@ -28,3 +28,8 @@ This page includes the course 401 reading materials, which are included in the t
  |    Read 28     |        Component Composition         |[Class28](Code401/class-28.md)|
  |    Read 29     |        Routing          |[Class29](Code401/class-29.md)|
  |    Read 30     |        Hash Tables          |[Class30](Code401/class-30.md)|
+ |    Read 31     |        Hooks API      |[Class31](Code401/class-31.md)|
+ |    Read 32     |        Custom Hooks          |[Class32](Code401/class-32.md)|
+ |    Read 33     |        Context API          |[Class33](Code401/class-33.md)|
+ |    Read 34     |        `<Login` /> and `<Auth />`         |[Class34](Code401/class-34.md)|
+ |    Read 35     |        Graphs          |[Class35](Code401/class-35.md)|
