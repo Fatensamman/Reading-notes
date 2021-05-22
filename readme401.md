@@ -33,3 +33,7 @@ This page includes the course 401 reading materials, which are included in the t
  |    Read 33     |        Context API          |[Class33](Code401/class-33.md)|
  |    Read 34     |        `<Login` /> and `<Auth />`         |[Class34](Code401/class-34.md)|
  |    Read 35     |        Graphs          |[Class35](Code401/class-35.md)|
+ |    Read 36     |        Application State with Redux         |[Class36](Code401/class-36.md)|
+ |    Read 37     |        Redux - Combined Reducers          |[Class37](Code401/class-37.md)|
+ |    Read 38     |        Redux - Asynchronous Actions          |[Class38](Code401/class-38.md)|
+ |    Read 39     |        Redux - Additional Topics          |[Class39](Code401/class-39.md)|
