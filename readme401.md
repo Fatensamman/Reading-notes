@@ -37,3 +37,6 @@ This page includes the course 401 reading materials, which are included in the t
  |    Read 37     |        Redux - Combined Reducers          |[Class37](Code401/class-37.md)|
  |    Read 38     |        Redux - Asynchronous Actions          |[Class38](Code401/class-38.md)|
  |    Read 39     |        Redux - Additional Topics          |[Class39](Code401/class-39.md)|
+ |    Read 41     |        React Native          |[Class41](Code401/class-41.md)|
+ |    Read 42     |       Ethics         |[Class42](Code401/class-42.md)|
+ |    Read 43     |       Gatsby, next.js, and other JS Frameworks         |[Class43](Code401/class-43.md)|
